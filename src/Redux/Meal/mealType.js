@@ -1,0 +1,6 @@
+export const MEAL_ITEM = 'MEAL_ITEM'
+export const ITEM_QUENTITY = 'ITEM_QUENTITY'
+export const ADD_ITEM = 'ADD_ITEM'
+export const INC_QTY = 'INC_QTY'
+export const DEC_QTY = 'DEC_QTY'
+export const EMPTY_QTY = 'EMPTY_QTY'
