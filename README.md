@@ -1,4 +1,4 @@
-# Host Link: https://vivekipro.github.io/Food-Cart/
+# Host Link: https://vivekipro.github.io/food_cart/
 
 # Project README
 
